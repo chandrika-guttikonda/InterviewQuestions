@@ -9,6 +9,9 @@ public class RemoveDuplicatesPreserveOrder {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		//Given an array of integers, remove duplicates while preserving the original insertion
+		
+		//input n=5 array=1,2,4,3,1
+		//output: Duplicate Array: [1, 2, 4, 3]
 		int n;
 		Scanner sc = new Scanner(System.in);  // Create scanner object
 		System.out.println("enter no of input values");

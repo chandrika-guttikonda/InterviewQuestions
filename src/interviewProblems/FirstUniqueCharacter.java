@@ -8,6 +8,8 @@ public class FirstUniqueCharacter {
 
 	public static void main(String[] args) {
 		// Given a string, find the first character that does not repeat anywhere in the string.
+		//input: Automation
+		//output: unique Character: n
 		Scanner sc = new Scanner(System.in);  // Create scanner object
 		System.out.println("enter the string value");
 		String str=sc.nextLine();
